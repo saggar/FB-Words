@@ -1,0 +1,18 @@
+Author: Suresh Saggar
+Email: suresh.saggar@gmail.com
+
+Project: FB-Words
+Application link: TBD
+
+About
+FB-Words is a web based application that renders as an iframe inside Facebook 
+(FB) UI. The applications makes use of the data (here words) stored inside the
+'My Notes' section of the FB user profile page. 
+
+Phase1
+In this phase of the project, I will be adding the basic UI support to retrieve 
+the user notes alongwith the code to retrieve word meaning from at least one
+type of source.
+
+
+
